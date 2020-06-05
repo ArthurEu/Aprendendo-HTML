@@ -1,0 +1,12 @@
+h1{
+	color: #ff6600;
+	letter-spacing: -2px;
+	text-transform:capitalize;	
+	width: 650px;
+	text-shadow: 2px 2px 1px green;
+}
+p{
+	width: 650px;
+	font-size: 18px;
+	font-family: verdana, arial, sans-serif;
+}
